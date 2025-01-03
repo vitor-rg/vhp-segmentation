@@ -3,8 +3,8 @@ Segmentation of [VHP](nlm.nih.gov/research/visible) [VKH dataset](anatomy.co.kr)
 ## THE DATASETS ARE:
 ### VHP
 #### Male:
-Fullbody
-Head
+Fullbody;
+Head;
 #### Female:
 Pelvis
 ### VKH
